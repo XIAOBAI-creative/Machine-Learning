@@ -1,0 +1,15 @@
+=== Model 3: Random Forest (Baseline) ===
+Test Accuracy : 0.8913
+Test Precision: 0.9020
+Test Recall   : 0.9020
+Test F1       : 0.9020
+
+--- classification_report ---
+              precision    recall  f1-score   support
+
+           0     0.8780    0.8780    0.8780        82
+           1     0.9020    0.9020    0.9020       102
+
+    accuracy                         0.8913       184
+   macro avg     0.8900    0.8900    0.8900       184
+weighted avg     0.8913    0.8913    0.8913       184

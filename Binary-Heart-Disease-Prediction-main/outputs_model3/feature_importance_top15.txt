@@ -1,0 +1,16 @@
+=== Top 15 Feature Importances (Best RF) ===
+ST slope_2: 0.204381
+chest pain type_4: 0.126379
+oldpeak: 0.100061
+exercise angina: 0.090933
+max heart rate: 0.087404
+heart_rate_reserve: 0.056372
+cholesterol: 0.050830
+age: 0.047299
+resting bp s: 0.039134
+chest pain type_2: 0.035799
+sex: 0.033857
+oldpeak_abnormal: 0.032237
+fasting blood sugar: 0.025525
+age_group: 0.018526
+chest pain type_3: 0.016389
