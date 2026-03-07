@@ -1,4 +1,0 @@
-flask>=2.3
-numpy
-pandas
-scikit-learn
