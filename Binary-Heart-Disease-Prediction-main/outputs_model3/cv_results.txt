@@ -1,0 +1,4 @@
+=== 5-Fold Stratified CV (Baseline RF) ===
+F1 mean: 0.8728
+F1 std : 0.0204
+All scores: [0.9064, 0.87, 0.8491, 0.8826, 0.8558]
